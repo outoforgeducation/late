@@ -7,7 +7,6 @@ Just use Google Calendar... Jokes aside, I was blessed to mentor and work with a
 ![License](https://img.shields.io/github/license/Apexal/late.svg)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Apexal/late.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D%2011.0.0-brightgreen.svg)
-![Discord](https://img.shields.io/discord/514854227462324244.svg?label=discord)
 ![GitHub stars](https://img.shields.io/github/stars/Apexal/late.svg)
 
 
