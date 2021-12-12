@@ -24,7 +24,7 @@ Just use Google Calendar... Jokes aside, I was blessed to mentor and work with a
 - [RCOS Project Profile](https://rcos.io/projects/apexal/late/profile)
 - [Project Proposal](https://docs.google.com/document/d/19D9do_i9MQvUSwz2oh7kbKlGVwLrpwxIYsgLeVjuQfU/view)
 - [RCOS Observatory](https://rcos.io/)
-- [Website](https://www.late.work/)
+- [Website](https://late.vercel.app/)
 
 ### Overview
 
