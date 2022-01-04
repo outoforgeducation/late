@@ -15,7 +15,6 @@
 
 #### Links
 
-- [RCOS Project Profile](https://rcos.io/projects/apexal/late/profile)
 - [Project Proposal](https://docs.google.com/document/d/19D9do_i9MQvUSwz2oh7kbKlGVwLrpwxIYsgLeVjuQfU/view)
 - [RCOS Observatory](https://rcos.io/)
 - [Website](https://late.vercel.app/)
